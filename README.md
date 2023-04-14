@@ -18,6 +18,7 @@ To use the Blockchain Load Testing Framework, you must first create a configurat
 
 Next, you can run the load testing using the following command:
 - go run main.go
+ 
 This will generate a performance report in CSV format, which you can analyze using a spreadsheet program or data analysis tool of your choice.
 
 # Contributing
